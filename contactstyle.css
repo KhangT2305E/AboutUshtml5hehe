@@ -1,0 +1,32 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    background-color: #dcdcdc;
+    margin: 10px;
+    padding: 20px 20px 50px 10px;
+}
+
+input {
+    width: 79rem;
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding: 10px;
+}
+
+content {
+    width: 79rem;
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.description {
+    text-align: left;
+    padding: 20px 10px 50px 10px;
+}
+
+.button {
+    padding: 10px;
+}
